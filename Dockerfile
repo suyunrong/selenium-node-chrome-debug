@@ -2,7 +2,7 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM suyunrong/selenium-node-chrome:latest
+FROM suyunrong/selenium-node-chrome:56.0.2924.87
 LABEL authors=suyunrong
 
 USER root
