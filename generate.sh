@@ -1,5 +1,5 @@
 #!/bin/bash
-VERSION=latest
+VERSION=63.0.3239.84
 NAMESPACE=suyunrong
 AUTHORS=suyunrong
 
